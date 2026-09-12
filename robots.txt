@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-# Temporary noncanonical preview.
+Sitemap: https://readyvio.com/sitemap.xml
