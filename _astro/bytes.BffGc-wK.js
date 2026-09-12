@@ -1,0 +1,1 @@
+function e(e){if(!Number.isFinite(e)||e<=0)throw Error(`Kilobytes must be a positive number.`);let t=Math.round(e*1e3);if(!Number.isSafeInteger(t))throw Error(`The requested size is too large.`);return t}export{e as t};
