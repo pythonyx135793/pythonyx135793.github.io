@@ -1,5 +1,6 @@
 {
   "product": "Readyvio",
-  "sourceCommit": "059300954cea680658d4dd0146e3c440605f22a6",
-  "channel": "noncanonical-preview"
+  "sourceCommit": "2ced62d9e8c7ba18cd9566a100054f81e2fcf98e",
+  "channel": "canonical-production",
+  "canonicalOrigin": "https://readyvio.com"
 }
