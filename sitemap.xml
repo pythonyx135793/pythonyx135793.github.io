@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://readyvio.com/</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://readyvio.com/</loc><lastmod>2026-09-20</lastmod></url>
   <url><loc>https://readyvio.com/about/</loc><lastmod>2026-09-14</lastmod></url>
   <url><loc>https://readyvio.com/contact/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/guides/</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://readyvio.com/guides/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://readyvio.com/guides/fix-rejected-image-upload/</loc><lastmod>2026-09-14</lastmod></url>
   <url><loc>https://readyvio.com/guides/image-metadata-privacy/</loc><lastmod>2026-09-14</lastmod></url>
   <url><loc>https://readyvio.com/guides/images-to-pdf-checklist/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/guides/jpg-png-webp-which-format/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/guides/resize-vs-crop-image/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/guides/understand-image-kb-limits/</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://readyvio.com/guides/jpg-png-webp-which-format/</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://readyvio.com/guides/resize-vs-crop-image/</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://readyvio.com/guides/understand-image-kb-limits/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://readyvio.com/legal/</loc><lastmod>2026-09-14</lastmod></url>
   <url><loc>https://readyvio.com/privacy/</loc><lastmod>2026-09-14</lastmod></url>
   <url><loc>https://readyvio.com/terms/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/compress-image-to-100-kb/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/compress-image-to-200-kb/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/compress-image-to-50-kb/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/compress-image-to-kb/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/crop-image-exact-size/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/image-metadata-viewer/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/image-to-webp/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/images-to-pdf/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/jpg-to-png/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/png-to-jpg/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/prepare-application-photo/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/remove-image-metadata/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://readyvio.com/tools/resize-image-exact-pixels/</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://readyvio.com/tools/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://readyvio.com/tools/compress-image-to-100-kb/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://readyvio.com/tools/compress-image-to-200-kb/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://readyvio.com/tools/compress-image-to-50-kb/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://readyvio.com/tools/compress-image-to-kb/</loc><lastmod>2026-09-20</lastmod></url>
+  <url><loc>https://readyvio.com/tools/crop-image-exact-size/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/image-metadata-viewer/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/image-to-webp/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/images-to-pdf/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/jpg-to-png/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/png-to-jpg/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/prepare-application-photo/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/remove-image-metadata/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/resize-image-exact-pixels/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://readyvio.com/tools/youtube-video-downloader/</loc><lastmod>2026-09-20</lastmod></url>
 </urlset>
